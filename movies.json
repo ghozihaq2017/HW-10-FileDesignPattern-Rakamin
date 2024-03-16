@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "title": "Sophie's Revenge (Fei chang wan mei)",
+    "genres": "Comedy|Romance",
+    "year": 2005
+  },
+  { "id": 2, "title": "North", "genres": "Comedy", "year": 1990 },
+  { "id": 3, "title": "Rabbit Test", "genres": "Comedy", "year": 2003 },
+  { "id": 4, "title": "Andromeda Strain, The", "genres": "Sci-Fi", "year": 1999 },
+  { "id": 5, "title": "Love is Eternal While It Lasts", "genres": "Comedy|Romance", "year": 2007 },
+  { "id": 6, "title": "Fat Albert", "genres": "Comedy|Fantasy", "year": 1993 },
+  { "id": 7, "title": "House Party", "genres": "Comedy", "year": 1976 },
+  { "id": 8, "title": "Happy Weekend", "genres": "Comedy", "year": 2003 },
+  {
+    "id": 9,
+    "title": "As Long as You've Got Your Health (Tant qu'on a la santé)",
+    "genres": "Comedy",
+    "year": 1986
+  },
+  { "id": 10, "title": "Soviet Story, The", "genres": "Documentary", "year": 2007 },
+  { "id": 11, "title": "Runaway", "genres": "Sci-Fi|Thriller", "year": 2002 },
+  { "id": 12, "title": "Anotherworld", "genres": "Drama|Romance", "year": 1997 },
+  { "id": 13, "title": "I Love You, I Love You Not", "genres": "Drama|Romance", "year": 2012 },
+  {
+    "id": 14,
+    "title": "Good Evening, Mr. Wallenberg (God afton, Herr Wallenberg)",
+    "genres": "Drama|War",
+    "year": 2002
+  },
+  { "id": 15, "title": "Freeway", "genres": "Thriller", "year": 2001 },
+  {
+    "id": 16,
+    "title": "Michael Jackson's This Is It",
+    "genres": "Documentary|Musical|IMAX",
+    "year": 1995
+  },
+  { "id": 17, "title": "Promise, The (La promesse)", "genres": "Drama", "year": 1998 },
+  {
+    "id": 18,
+    "title": "Last Tango in Paris (Ultimo tango a Parigi)",
+    "genres": "Drama|Romance",
+    "year": 2009
+  },
+  { "id": 19, "title": "Adam's Rib", "genres": "Comedy|Romance", "year": 2001 },
+  { "id": 20, "title": "Airport '77", "genres": "Drama", "year": 1994 },
+  { "id": 21, "title": "Night in Casablanca, A", "genres": "Comedy", "year": 2008 },
+  {
+    "id": 22,
+    "title": "Big Deal on Madonna Street (I Soliti Ignoti)",
+    "genres": "Comedy|Crime",
+    "year": 2007
+  },
+  { "id": 23, "title": "Quest, The", "genres": "Action|Adventure", "year": 2010 },
+  { "id": 24, "title": "Darwin's Nightmare", "genres": "Documentary", "year": 1999 },
+  { "id": 25, "title": "Three Quarter Moon", "genres": "Comedy|Drama", "year": 2005 },
+  { "id": 26, "title": "Shakespeare in Love", "genres": "Comedy|Drama|Romance", "year": 2007 },
+  { "id": 27, "title": "Down Argentine Way", "genres": "Comedy|Drama|Romance", "year": 2009 },
+  { "id": 28, "title": "World on a Wire (Welt am Draht)", "genres": "Crime|Sci-Fi", "year": 1994 },
+  { "id": 29, "title": "Green Wave, The", "genres": "Documentary", "year": 2006 },
+  {
+    "id": 30,
+    "title": "Challenge of the Masters (Liu A-Cai yu Huang Fei-Hong)",
+    "genres": "Action|Drama",
+    "year": 1987
+  },
+  { "id": 31, "title": "Rainmaker, The", "genres": "Drama", "year": 1992 },
+  { "id": 32, "title": "Cargo 200 (Gruz 200)", "genres": "Drama", "year": 2004 },
+  { "id": 33, "title": "Torque", "genres": "Action|Crime", "year": 2011 },
+  { "id": 34, "title": "Noise", "genres": "Drama|Thriller", "year": 2012 },
+  { "id": 35, "title": "Dead End", "genres": "Crime|Drama", "year": 2005 },
+  { "id": 36, "title": "The Strength of Water", "genres": "(no genres listed)", "year": 2007 },
+  {
+    "id": 37,
+    "title": "Rescuers Down Under, The",
+    "genres": "Adventure|Animation|Children",
+    "year": 2008
+  },
+  { "id": 38, "title": "Mirror Crack'd, The", "genres": "Crime|Mystery|Thriller", "year": 2012 },
+  {
+    "id": 39,
+    "title": "Little Mermaid 2: Return to the Sea, The",
+    "genres": "Animation|Children|Fantasy|Musical",
+    "year": 2007
+  },
+  {
+    "id": 40,
+    "title": "Into the Blue 2: The Reef",
+    "genres": "Action|Adventure|Thriller",
+    "year": 2003
+  },
+  { "id": 41, "title": "Pursuit of Happiness, The", "genres": "Drama", "year": 1985 },
+  { "id": 42, "title": "Blue City", "genres": "Action|Crime|Drama", "year": 2013 },
+  { "id": 43, "title": "Body Count", "genres": "Comedy|Crime|Drama|Thriller", "year": 2009 },
+  {
+    "id": 44,
+    "title": "Lone Ranger, The",
+    "genres": "Action|Adventure|Western|IMAX",
+    "year": 2000
+  },
+  { "id": 45, "title": "TiMER", "genres": "Comedy|Drama|Fantasy|Romance", "year": 2009 },
+  { "id": 46, "title": "Devdas", "genres": "Musical|Romance", "year": 2001 },
+  { "id": 47, "title": "Moonrise", "genres": "Drama|Film-Noir", "year": 2001 },
+  { "id": 48, "title": "Paris by Night", "genres": "Crime|Drama", "year": 2005 },
+  { "id": 49, "title": "New Leaf, A", "genres": "Comedy|Romance", "year": 2000 },
+  { "id": 50, "title": "Symphonie pastorale, La", "genres": "Drama", "year": 2004 },
+  { "id": 51, "title": "Winter Guest, The", "genres": "Drama", "year": 1987 },
+  { "id": 52, "title": "Yellow Cab Man, The", "genres": "Comedy|Drama|Romance", "year": 2007 },
+  { "id": 53, "title": "Funny Face", "genres": "Comedy|Musical", "year": 1989 },
+  {
+    "id": 54,
+    "title": "Tale of the Wind, A (Histoire de vent, Une)",
+    "genres": "Documentary",
+    "year": 2010
+  },
+  { "id": 55, "title": "Music Box", "genres": "Drama", "year": 2000 },
+  { "id": 56, "title": "Cool Hand Luke", "genres": "Drama", "year": 2007 },
+  { "id": 57, "title": "Soldier's Daughter Never Cries, A", "genres": "Drama", "year": 2010 },
+  { "id": 58, "title": "Three Musketeers, The", "genres": "Action|Adventure|Comedy", "year": 2001 },
+  { "id": 59, "title": "Whisky", "genres": "Comedy|Drama", "year": 2009 },
+  { "id": 60, "title": "Nancy Goes to Rio", "genres": "Comedy|Musical", "year": 1993 },
+  { "id": 61, "title": "Everything Will Be Fine", "genres": "Drama|Thriller", "year": 1996 },
+  { "id": 62, "title": "Vow, The", "genres": "Drama|Romance", "year": 1992 },
+  { "id": 63, "title": "Yamla Pagla Deewana 2", "genres": "Action|Comedy|Drama", "year": 2009 },
+  { "id": 64, "title": "Evil Aliens", "genres": "Comedy|Horror|Sci-Fi", "year": 1997 },
+  { "id": 65, "title": "Window, The", "genres": "Drama|Film-Noir|Thriller", "year": 1993 },
+  { "id": 66, "title": "The Dark Valley", "genres": "Western", "year": 1996 },
+  { "id": 67, "title": "Baxter", "genres": "Drama|Horror", "year": 2004 },
+  { "id": 68, "title": "Hanussen", "genres": "Drama", "year": 1999 },
+  { "id": 69, "title": "Winter Solstice", "genres": "Drama", "year": 2008 },
+  { "id": 70, "title": "Inferno", "genres": "Drama", "year": 2007 },
+  { "id": 71, "title": "Counterfeit Traitor, The", "genres": "Thriller|War", "year": 2012 },
+  {
+    "id": 72,
+    "title": "Brothers Lionheart, The (Bröderna Lejonhjärta)",
+    "genres": "Adventure|Children|Fantasy",
+    "year": 2004
+  },
+  { "id": 73, "title": "Good Hair", "genres": "Comedy|Documentary", "year": 1987 },
+  { "id": 74, "title": "The Heavy", "genres": "Action|Thriller", "year": 2001 },
+  { "id": 75, "title": "Bob's Birthday", "genres": "(no genres listed)", "year": 2009 },
+  { "id": 76, "title": "Mrs. Winterbourne", "genres": "Comedy|Romance", "year": 2005 },
+  { "id": 77, "title": "Hard Ticket to Hawaii", "genres": "Action|Comedy", "year": 2008 },
+  { "id": 78, "title": "Toxic Avenger, The", "genres": "Comedy|Horror", "year": 1987 },
+  { "id": 79, "title": "Pennies from Heaven", "genres": "Musical|Romance", "year": 1984 },
+  { "id": 80, "title": "Running Free", "genres": "Adventure|Children|Drama", "year": 1999 },
+  {
+    "id": 81,
+    "title": "Côte d'Azur (Crustacés et coquillages)",
+    "genres": "Comedy|Musical|Romance",
+    "year": 2013
+  },
+  { "id": 82, "title": "All Over the Guy", "genres": "Comedy", "year": 1995 },
+  {
+    "id": 83,
+    "title": "Happily N'Ever After",
+    "genres": "Animation|Children|Comedy",
+    "year": 1990
+  },
+  { "id": 84, "title": "Another Harvest Moon", "genres": "Drama", "year": 1992 },
+  { "id": 85, "title": "Smoke Signals", "genres": "Comedy|Drama", "year": 2000 },
+  { "id": 86, "title": "Ceremony, The (Gishiki)", "genres": "Comedy|Drama", "year": 2009 },
+  {
+    "id": 87,
+    "title": "Murmur of the Heart (Le souffle au coeur)",
+    "genres": "Drama",
+    "year": 2003
+  },
+  {
+    "id": 88,
+    "title": "Shivers (They Came from Within)",
+    "genres": "Drama|Horror|Sci-Fi",
+    "year": 1993
+  },
+  {
+    "id": 89,
+    "title": "Dracula (Bram Stoker's Dracula)",
+    "genres": "Fantasy|Horror|Romance|Thriller",
+    "year": 2007
+  },
+  { "id": 90, "title": "Klansman, The", "genres": "Action|Drama|Thriller", "year": 1995 },
+  { "id": 91, "title": "Ferocious", "genres": "Crime|Thriller", "year": 1999 },
+  { "id": 92, "title": "Lords of Salem, The", "genres": "Horror|Thriller", "year": 1999 },
+  {
+    "id": 93,
+    "title": "Bitter Tea of General Yen, The",
+    "genres": "Drama|Romance|War",
+    "year": 1991
+  },
+  {
+    "id": 94,
+    "title": "Warning from Space (Uchûjin Tôkyô ni arawaru)",
+    "genres": "Sci-Fi",
+    "year": 1966
+  },
+  { "id": 95, "title": "Double Trouble", "genres": "Musical", "year": 2010 },
+  { "id": 96, "title": "C.O.G.", "genres": "Comedy|Drama", "year": 2013 },
+  { "id": 97, "title": "Folies Bergere de Paris", "genres": "Comedy|Musical", "year": 2006 },
+  {
+    "id": 98,
+    "title": "Universal Soldier: Day of Reckoning",
+    "genres": "Action|Sci-Fi|Thriller",
+    "year": 1997
+  },
+  {
+    "id": 99,
+    "title": "News from a Personal War (Notícias de uma Guerra Particular)",
+    "genres": "Documentary",
+    "year": 1987
+  },
+  { "id": 100, "title": "So Big!", "genres": "Drama", "year": 2008 },
+  { "id": 101, "title": "Go for It", "genres": "Action|Adventure|Comedy", "year": 1993 },
+  { "id": 102, "title": "Stickup, The", "genres": "Action|Crime|Mystery", "year": 1950 },
+  {
+    "id": 103,
+    "title": "Captain Phillips",
+    "genres": "Adventure|Drama|Thriller|IMAX",
+    "year": 1985
+  },
+  { "id": 104, "title": "Dangerous Minds", "genres": "Drama", "year": 2007 },
+  { "id": 105, "title": "Midnight Bayou", "genres": "Drama|Mystery|Romance", "year": 2000 },
+  { "id": 106, "title": "Dead Heat", "genres": "Action|Comedy|Horror|Sci-Fi", "year": 1999 },
+  { "id": 107, "title": "Religulous", "genres": "Comedy|Documentary", "year": 2004 },
+  { "id": 108, "title": "Night Terrors", "genres": "Horror", "year": 2003 },
+  { "id": 109, "title": "Specialist, The", "genres": "Action|Drama|Thriller", "year": 1997 },
+  {
+    "id": 110,
+    "title": "Burma VJ: Reporting from a Closed Country (Burma VJ: Reporter i et lukket land)",
+    "genres": "Documentary",
+    "year": 2009
+  },
+  { "id": 111, "title": "Browning Version, The", "genres": "Drama", "year": 1989 },
+  { "id": 112, "title": "Mamma Mia!", "genres": "Comedy|Musical|Romance", "year": 2009 },
+  { "id": 113, "title": "Hostel: Part III ", "genres": "Horror|Thriller", "year": 2006 },
+  { "id": 114, "title": "McLintock!", "genres": "Comedy|Western", "year": 2005 },
+  { "id": 115, "title": "Lupin the 3rd", "genres": "Action|Adventure|Comedy", "year": 2012 },
+  { "id": 116, "title": "Side Out", "genres": "Comedy|Romance", "year": 2003 },
+  {
+    "id": 117,
+    "title": "The Lego Movie",
+    "genres": "Action|Adventure|Animation|Children|Comedy|Fantasy",
+    "year": 2001
+  },
+  { "id": 118, "title": "House Party", "genres": "Comedy", "year": 1990 },
+  { "id": 119, "title": "Fun is Beautiful", "genres": "Comedy", "year": 2008 },
+  {
+    "id": 120,
+    "title": "Eiger Sanction, The",
+    "genres": "Action|Adventure|Drama|Thriller",
+    "year": 1983
+  },
+  { "id": 121, "title": "Fate Is the Hunter", "genres": "Drama", "year": 1997 },
+  { "id": 122, "title": "Princess Caraboo", "genres": "Drama", "year": 1995 },
+  { "id": 123, "title": "Shepherd of the Hills, The", "genres": "Drama", "year": 2010 },
+  { "id": 124, "title": "Dangerous Lives of Altar Boys, The", "genres": "Drama", "year": 2004 },
+  { "id": 125, "title": "Patterns", "genres": "Drama", "year": 1999 },
+  { "id": 126, "title": "The Noble Family", "genres": "Comedy", "year": 2011 },
+  { "id": 127, "title": "Upstream Color", "genres": "Romance|Sci-Fi|Thriller", "year": 2010 },
+  { "id": 128, "title": "Devil Came on Horseback, The", "genres": "Documentary", "year": 1996 },
+  {
+    "id": 129,
+    "title": "Tramp, The (Awaara) (Awara)",
+    "genres": "Drama|Musical|Romance",
+    "year": 2004
+  },
+  { "id": 130, "title": "Dirty Filthy Love", "genres": "Drama|Romance", "year": 2006 },
+  {
+    "id": 131,
+    "title": "Business of Strangers, The",
+    "genres": "Action|Drama|Thriller",
+    "year": 2006
+  },
+  { "id": 132, "title": "Charlie Countryman", "genres": "Action|Comedy|Romance", "year": 2011 },
+  { "id": 133, "title": "The French Kissers", "genres": "Comedy", "year": 1985 },
+  {
+    "id": 134,
+    "title": "Rabid Grannies (Mémés cannibales, Les)",
+    "genres": "Comedy|Horror",
+    "year": 1994
+  },
+  { "id": 135, "title": "Drona", "genres": "Action|Adventure|Fantasy|Musical", "year": 1985 },
+  {
+    "id": 136,
+    "title": "Restless Souls (Bag det stille ydre)",
+    "genres": "Drama|Horror|Mystery",
+    "year": 1987
+  },
+  { "id": 137, "title": "Anne of the Thousand Days", "genres": "Drama", "year": 1998 },
+  {
+    "id": 138,
+    "title": "Death of Mr. Lazarescu, The (Moartea domnului Lazarescu)",
+    "genres": "Drama",
+    "year": 1990
+  },
+  { "id": 139, "title": "Boris Godunov", "genres": "Drama", "year": 1993 },
+  { "id": 140, "title": "Star Trek", "genres": "Action|Adventure|Sci-Fi|IMAX", "year": 1994 },
+  { "id": 141, "title": "Breakout", "genres": "Action", "year": 1994 },
+  { "id": 142, "title": "Hot Fuzz", "genres": "Action|Comedy|Crime|Mystery", "year": 1999 },
+  { "id": 143, "title": "Year My Voice Broke, The", "genres": "Drama", "year": 1998 },
+  { "id": 144, "title": "Bikini Summer III - South Beach Heat", "genres": "Comedy", "year": 1995 },
+  { "id": 145, "title": "Steal This Film", "genres": "Documentary", "year": 2003 },
+  {
+    "id": 146,
+    "title": "My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud)",
+    "genres": "Drama",
+    "year": 1989
+  },
+  { "id": 147, "title": "Stranger, The (Agantuk) (Visitor, The)", "genres": "Drama", "year": 1995 },
+  { "id": 148, "title": "Beautiful Thing", "genres": "Drama|Romance", "year": 2010 },
+  { "id": 149, "title": "Rent-A-Cop", "genres": "Action|Comedy|Crime", "year": 2004 },
+  { "id": 150, "title": "Black Dawn", "genres": "Action", "year": 1995 },
+  { "id": 151, "title": "Edge, The (Kray)", "genres": "Adventure|Drama|Romance", "year": 2000 },
+  { "id": 152, "title": "Montana Sky", "genres": "Drama|Romance|Thriller", "year": 1993 },
+  { "id": 153, "title": "Rain", "genres": "Drama|Romance", "year": 2010 },
+  { "id": 154, "title": "Reality", "genres": "Comedy|Drama", "year": 2012 },
+  {
+    "id": 155,
+    "title": "Girl from the Naked Eye, The",
+    "genres": "Action|Romance|Thriller",
+    "year": 2005
+  },
+  { "id": 156, "title": "Green Ice", "genres": "Adventure|Romance", "year": 1985 },
+  { "id": 157, "title": "Hotline", "genres": "Documentary", "year": 2011 },
+  { "id": 158, "title": "The Heart of the World", "genres": "Drama|Fantasy", "year": 2006 },
+  { "id": 159, "title": "Katt Williams: Priceless: Afterlife", "genres": "Comedy", "year": 1991 },
+  { "id": 160, "title": "Paris by Night", "genres": "Crime|Drama", "year": 1992 },
+  { "id": 161, "title": "Being Cyrus", "genres": "Comedy|Drama|Thriller", "year": 2009 },
+  {
+    "id": 162,
+    "title": "Harold & Kumar Escape from Guantanamo Bay",
+    "genres": "Adventure|Comedy",
+    "year": 1999
+  },
+  { "id": 163, "title": "Away We Go", "genres": "Comedy|Drama|Romance", "year": 2008 },
+  { "id": 164, "title": "Breathless", "genres": "Action|Drama|Romance|Thriller", "year": 2007 },
+  { "id": 165, "title": "New Guy, The", "genres": "Comedy", "year": 1996 },
+  { "id": 166, "title": "Flowers in the Attic", "genres": "Drama|Thriller", "year": 1987 },
+  {
+    "id": 167,
+    "title": "New Fist of Fury (Xin jing wu men)",
+    "genres": "Action|Drama",
+    "year": 1993
+  },
+  {
+    "id": 168,
+    "title": "Armour of God II: Operation Condor (Operation Condor) (Fei ying gai wak)",
+    "genres": "Action|Adventure|Comedy",
+    "year": 2002
+  },
+  { "id": 169, "title": "East Side, West Side", "genres": "Crime|Drama|Romance", "year": 2002 },
+  { "id": 170, "title": "Trader Horn", "genres": "Adventure|Romance", "year": 2011 },
+  { "id": 171, "title": "Eye, The (Gin gwai) (Jian gui)", "genres": "Thriller", "year": 1997 },
+  { "id": 172, "title": "Within the Woods", "genres": "Horror", "year": 1995 },
+  {
+    "id": 173,
+    "title": "Lock Up",
+    "genres": "Action|Adventure|Crime|Drama|Thriller",
+    "year": 2008
+  },
+  { "id": 174, "title": "Greening of Whitney Brown, The", "genres": "Adventure", "year": 2012 },
+  { "id": 175, "title": "Denise Calls Up", "genres": "Comedy", "year": 2004 },
+  { "id": 176, "title": "Kiler", "genres": "Comedy|Crime", "year": 1993 },
+  { "id": 177, "title": "Wreck of the Mary Deare, The", "genres": "Drama|Thriller", "year": 2010 },
+  {
+    "id": 178,
+    "title": "Night of the Zombies (a.k.a. Batallion of the Living Dead)",
+    "genres": "Horror|Sci-Fi",
+    "year": 1991
+  },
+  {
+    "id": 179,
+    "title": "Stanley Kubrick: A Life in Pictures",
+    "genres": "Documentary",
+    "year": 1992
+  },
+  {
+    "id": 180,
+    "title": "Hanzo the Razor: Sword of Justice (Goyôkiba)",
+    "genres": "Action",
+    "year": 2006
+  },
+  { "id": 181, "title": "Girlfight", "genres": "Drama", "year": 2011 },
+  { "id": 182, "title": "Bûche, La", "genres": "Comedy|Drama", "year": 2006 },
+  {
+    "id": 183,
+    "title": "At First Sight (Entre Nous) (Coup de foudre)",
+    "genres": "Drama",
+    "year": 1996
+  },
+  { "id": 184, "title": "Volcano", "genres": "Action|Drama|Thriller", "year": 1995 },
+  { "id": 185, "title": "Magnum Cop", "genres": "Thriller", "year": 2008 },
+  { "id": 186, "title": "Killer Legends", "genres": "Crime|Documentary", "year": 2010 },
+  { "id": 187, "title": "Farmer's Wife, The", "genres": "Comedy", "year": 2002 },
+  { "id": 188, "title": "Chaos Theory", "genres": "Comedy|Drama|Romance", "year": 2009 },
+  { "id": 189, "title": "Kim", "genres": "Children|Drama", "year": 2010 },
+  {
+    "id": 190,
+    "title": "Honeysuckle Rose (a.k.a. On the Road Again)",
+    "genres": "Drama|Romance",
+    "year": 2004
+  },
+  { "id": 191, "title": "Deep, The", "genres": "Adventure|Horror|Mystery|Thriller", "year": 2009 },
+  {
+    "id": 192,
+    "title": "Dinosaurs: A Fun Filled Trip Back in Time",
+    "genres": "Animation|Children",
+    "year": 1997
+  },
+  { "id": 193, "title": "Narco Cultura", "genres": "Documentary", "year": 2011 },
+  { "id": 194, "title": "Age of Ice", "genres": "Adventure|Sci-Fi", "year": 2007 },
+  { "id": 195, "title": "Reckless Moment, The", "genres": "Drama|Film-Noir", "year": 2012 },
+  { "id": 196, "title": "Taxing Woman, A (Marusa no onna)", "genres": "Comedy", "year": 2001 },
+  {
+    "id": 197,
+    "title": "Summer's Tale, A (Conte d'été)",
+    "genres": "Comedy|Drama|Romance",
+    "year": 2010
+  },
+  { "id": 198, "title": "True Heart", "genres": "Adventure|Children|Drama", "year": 1986 },
+  {
+    "id": 199,
+    "title": "22 Bullets (L'immortel)",
+    "genres": "Action|Crime|Thriller",
+    "year": 2011
+  },
+  {
+    "id": 200,
+    "title": "Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen)",
+    "genres": "Action|Adventure|Animation|Sci-Fi",
+    "year": 2013
+  }
+]
